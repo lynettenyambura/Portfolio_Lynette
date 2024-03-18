@@ -37,6 +37,7 @@ const skillsList = [
   "Node.js",
   "MongoDB",
   "Redux",
+  "Express",
 ];
 
 /**
