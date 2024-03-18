@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Mern stack Ecommerce 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A full stack MERN Ecommerce application with Redux, React, Node, Express, MongoDB.",
+    url: "https://github.com/lynettenyambura/SentimentEnhanced",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Social App 🎉",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A social media app with React, Redux, MSSQL, and Material-UI. Users can create and like posts, set their profile picture, and more.",
+    url: "https://github.com/lynettenyambura/Socialapp",
   },
   {
-    title: "My Resume Site",
+    title: "Drum Kit 🎉",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A drum kit made with HTML, CSS, and JavaScript. Users can play the drums by clicking on the buttons or pressing the keys on their keyboard.",
+    url: "https://github.com/lynettenyambura/Drum_kit",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Todo App 🎉",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A simple todo app made with HTML, CSS, and JavaScript. Users can add, delete, and mark todos as complete. Todos are saved to local storage.",
+    url: "https://github.com/lynettenyambura/Newtodo",
   },
 ];
 
